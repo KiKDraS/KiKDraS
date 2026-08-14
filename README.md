@@ -30,9 +30,9 @@ In addition to core frontend development, I serve as a Technical Instructor and 
 ---
 
 ### 📈 What I'm working on
-- 🛠️ **MTG Life Counter App:** Developing a Next.js PWA for Magic: The Gathering that supports custom life tracking and configurations for 2 to 6 player pods[cite: 1]. Building this application requires specialized technical focus in two core areas:
-  - 🧠 **Offline AI Judge:** Integrating an in-browser AI model trained on the official MTG rulebook to act as a real-time judge and encyclopedia[cite: 1]. This ensures the app can resolve complex stack interactions and edge-case mechanics—such as correctly interpreting alternative casting abilities like *Prowl* from zones outside the hand—without relying on internet connectivity[cite: 1].
-  - 📱 **PWA Architecture:** Designing an offline-first infrastructure to support both the heavy AI models and the interactive UI, which includes custom guild-color aesthetics[cite: 1]. This involves advanced service worker implementation to guarantee a seamless, zero-latency experience in any physical gaming environment[cite: 1].
+- 🛠️ **MTG Life Counter App:** Developing a Next.js PWA for Magic: The Gathering that supports custom life tracking and configurations for 2 to 6 player pods. Building this application requires specialized technical focus in two core areas:
+  - 🧠 **Offline AI Judge:** Integrating an in-browser AI model trained on the official MTG rulebook to act as a real-time judge and encyclopedia. This ensures the app can resolve complex stack interactions and edge-case mechanics—such as correctly interpreting alternative casting abilities like *Prowl* from zones outside the hand—without relying on internet connectivity.
+  - 📱 **PWA Architecture:** Designing an offline-first infrastructure to support both the heavy AI models and the interactive UI, which includes custom guild-color aesthetics. This involves advanced service worker implementation to guarantee a seamless, zero-latency experience in any physical gaming environment.
 - 📚 Refining custom code challenge ecosystems to accelerate learning curves for front-end students.
 - 📱 Digging deeper into architectural patterns for web toolkits.
 
